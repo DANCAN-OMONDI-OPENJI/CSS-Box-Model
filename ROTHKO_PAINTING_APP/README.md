@@ -7,4 +7,4 @@ In this course, you'll use CSS and the Box Model to create your own Rothko-style
 
 ## Local development
 
-Open index.html in your browser.
+Open index.html in your browser..
